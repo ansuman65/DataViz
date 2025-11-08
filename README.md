@@ -42,7 +42,7 @@ It simulates continuous data flow using Web Workers and visualizes dynamic datas
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ansuman65/performance-dashboard.git
+git clone https://github.com/ansuman65/DataViz.git
 cd performance-dashboard
 ```
 
